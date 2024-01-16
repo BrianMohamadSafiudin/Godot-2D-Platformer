@@ -2,11 +2,20 @@
 
 Made by Brian Mohamad Safiudin
 
+<video width="510" height="240" controls>
+  <source src="preview.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## What is it?
 This project was created to gain experience in the C# Godot environment for the 2D Platform genre and to prove to myself that I can make a complete game. I hope in making this open source that others will also learn some things that I have learned.
 
 The project will be considered complete when there is around 2 to 3 hours of fun and memorable content. Some of the major goals of the project include getting multiplayer to a playable state and making the code as flexible and as readable as possible.
+
+<video width="330" height="240" controls>
+  <source src="preview2.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Roadmap
 - Use Godot scenes instead of one big master node handling all scene nodes. This will allow for easier testing of inidivual scenes in the future.
